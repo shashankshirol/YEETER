@@ -1,0 +1,14 @@
+Metadata-Version: 1.0
+Name: YEETER
+Version: 0.0.1
+Summary: A package to print YEET--fancy ways and normal ways;
+Home-page: https://github.com/PonderfulWoop/YEETER
+Author: Shashank Shirol
+Author-email: shashank.shirol1@gmaio.com
+License: MIT
+Description: #YEETER
+        
+        A python package to print YEET wherever you call the function.
+        Uses internet to get ASCII art of YEET when you use FancyYeeter.
+        
+Platform: UNKNOWN
