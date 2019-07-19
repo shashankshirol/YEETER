@@ -8,7 +8,7 @@ Uses internet to get ASCII art of YEET when you use FancyYeeter.
 
 ## To USE:
 - **IMPORTING**: _from YEETER import YeetMaster as ym_
-- **CALL**: ym.FancyYeeter() or ym.NormalYeeter(); FancyYeeter will print "YEET" in different ASCII art styles.
+- **CALL**: _ym.FancyYeeter() or ym.NormalYeeter()_; FancyYeeter will print "YEET" in different ASCII art styles.
 - **Params**:
     * length = Takes a positive integer; decides number of Es in "YEET".
     * times = Takes a positive integer; decides number of times "YEET" is printed.
